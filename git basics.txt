@@ -1,0 +1,14 @@
+#basic
+git config --global -list
+git config --global user.name "nikitaredy"
+git config --global user.email "niicorn.25@gmail.com"
+
+
+
+#add the files
+
+git init 
+git add
+git commit -m "message"
+git status
+git log
